@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @elliotgunton
 
-TODO:
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new things all the time
+- 🌱 I’m currently learning about algorithmic trading
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 How to reach me: https://www.linkedin.com/in/elliot-gunton-9837b2129/
 
 <!---
 elliotgunton/elliotgunton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
