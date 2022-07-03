@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elliotgunton
 
 - 👀 I’m interested in learning new things all the time
-- 🌱 I’m currently learning about algorithmic trading
+- 🌱 I’m currently learning about machine learning
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: https://www.linkedin.com/in/elliot-gunton-9837b2129/
 
