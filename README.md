@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @elliotgunton
+- 👋 Hi, I'm @elliotgunton
 
-- 👀 I’m interested in learning new things all the time
-- 🌱 I’m currently learning about machine learning
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 How to reach me: https://www.linkedin.com/in/elliot-gunton-9837b2129/
+- 👀 I'm interested in learning new things all the time
+- 🌱 I'm currently working on a workout app for fun 🏋🏻‍♂️🏋🏻‍♂️
+- 📫 Find me on LinkedIn [here](https://www.linkedin.com/in/elliot-gunton-9837b2129/)
+- 📜 [My mini website](https://elliotgunton.github.io) with some details of my work experience
 
 <!---
 elliotgunton/elliotgunton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
