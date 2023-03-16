@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @elliotgunton
 
 - 👀 I'm interested in learning new things all the time
-- 🌱 I'm currently working on a workout app for fun 🏋🏻‍♂️🏋🏻‍♂️
+- 🌱 I'm currently working on [Hera](https://github.com/argoproj-labs/hera-workflows)!
 - 📫 Find me on LinkedIn [here](https://www.linkedin.com/in/elliot-gunton-9837b2129/)
 - 📜 [My mini website](https://elliotgunton.github.io) with some details of my work experience
 
