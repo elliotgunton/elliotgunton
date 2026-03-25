@@ -7,6 +7,8 @@
 
 ### 🛠️ Technologies & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-3776AB?style=flat&logo=go&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3776AB?style=flat&logo=typescript&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Argo Workflows](https://img.shields.io/badge/Argo%20Workflows-4A90E2?style=flat&logo=argo&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -14,8 +16,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=flat&logo=jenkins&logoColor=white)
 
-- Strong focus on **clean, maintainable, production-grade Python** (OOP, microservices, APIs)
+- Strong focus on **clean, maintainable, production-grade Python and Go** (OOP, microservices, APIs)
 - Experience with **data engineering**, **MLOps**, **workflow orchestration**, and regulated financial environments
+- Able to flex on language and contribute to frontend code
 
 <!---
 elliotgunton/elliotgunton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
