@@ -14,8 +14,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=flat&logo=jenkins&logoColor=white)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotgunton&layout=compact&theme=radical)  
-
 - Strong focus on **clean, maintainable, production-grade Python** (OOP, microservices, APIs)
 - Experience with **data engineering**, **MLOps**, **workflow orchestration**, and regulated financial environments
 
