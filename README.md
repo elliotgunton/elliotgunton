@@ -3,7 +3,7 @@
 - 🧠 Senior Python Engineer with extensive experience building **production-grade backend systems**, **scalable data pipelines**, **ML platforms**, and **distributed workflows** in financial services and fintech.
 - 🦸 I am the **maintainer of [Hera](https://github.com/argoproj-labs/hera)** – the popular Python SDK for writing containerised workflows on Kubernetes with Argo Workflows. Current monthly download counter:
 
-  ![Hera Downloads](https://pepy.tech/badge/hera-workflows/month)
+  ![Hera Downloads](https://pepy.tech/badge/hera/month)
 
 ### 🛠️ Technologies & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
